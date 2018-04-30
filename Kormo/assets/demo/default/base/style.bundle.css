@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /**
 $m--root-font: (
     size: (
@@ -22937,8 +22937,8 @@ body.m-portlet--fullscreen {
   padding-bottom: 0; }
 
 .m-form.m-form--group-seperator-dashed .m-form__group, .m-form.m-form--group-seperator .m-form__group {
-  padding-top: 25px;
-  padding-bottom: 25px; }
+  padding-top: 8px;
+  padding-bottom: 8px; }
 
 .m-form .form-control-feedback {
   margin-top: 0.2rem;
